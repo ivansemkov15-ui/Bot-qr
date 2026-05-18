@@ -1,0 +1,4 @@
+{
+  "polling_interval": 1,
+  "qr_api_url": "https://api.qrserver.com/v1/create-qr-code/"
+}
